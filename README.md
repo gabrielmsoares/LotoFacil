@@ -1,2 +1,2 @@
 # LotoFacil
-Lotofácil é um projeto para um jogo de apostas interativo com o usuário.
+Lotofácil é um projeto para um sistema de apostas interativo com o usuário.
