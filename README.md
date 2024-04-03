@@ -1,5 +1,5 @@
 # LotoFacil 🎰
-Lotofácil é um projeto para um sistema de apostas interativo com o usuário. Faz parte de um trabalho da disciplina de Linguagens de Programação realizada na faculdade Newton Paiva.
+Lotofácil é um projeto para um sistema de apostas interativo com o usuário. Faz parte de um trabalho da disciplina de Linguagens de Programação cursada na faculdade Newton Paiva.
 
 ## Sobre o Projeto
 O sistema é capaz de gerar jogos aleatórios e permite que os jogadores façam suas apostas, verifiquem os resultados e calculem os prêmios de acordo com as regras da loteria. Este sistema funciona por meio do terminal, lendo e escrevendo dados.
