@@ -25,17 +25,17 @@ O sistema solicita ao usuário um número inteiro. Ao receber o número, o siste
 Confira aqui imagens do projeto: https://imgur.com/a/lp2t2jT
 
 ## Tecnologias Utilizadas
-Linguagem de programação Java
-JDK 17.0.1
+- Linguagem de programação Java
+- JDK 17.0.1
 
 ## Habilidades
-Lógica de Programação com if else
-Estruturas switch case e do while 
-Tratamento de exceção try catch 
+- Lógica de Programação com *if else*
+- Estruturas *switch case e do while*
+- Tratamento de exceção *try catch*
 
 ## Bibliotecas
-Scanner: https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
-Random: https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
+- Scanner: https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html
+- Random: https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
 
 ## Instalação
 Caso deseje contribuir ou simplesmente rodar o projeto na sua máquina, siga as orientações:
